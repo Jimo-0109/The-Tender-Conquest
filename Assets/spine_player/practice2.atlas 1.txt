@@ -1,0 +1,286 @@
+
+practice2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 467, 122
+  size: 59, 79
+  orig: 60, 79
+  offset: 1, 0
+  index: -1
+eyes (1)
+  rotate: true
+  xy: 528, 124
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+eyes (2)
+  rotate: false
+  xy: 471, 29
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+hair (1)
+  rotate: false
+  xy: 390, 128
+  size: 75, 73
+  orig: 75, 74
+  offset: 0, 1
+  index: -1
+hair (2)
+  rotate: true
+  xy: 910, 225
+  size: 29, 91
+  orig: 29, 91
+  offset: 0, 0
+  index: -1
+hair (3)
+  rotate: true
+  xy: 2, 3
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: -1
+hair (4)
+  rotate: true
+  xy: 528, 133
+  size: 27, 86
+  orig: 28, 86
+  offset: 0, 0
+  index: -1
+hair (5)
+  rotate: true
+  xy: 387, 2
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+hair (6)
+  rotate: false
+  xy: 169, 88
+  size: 81, 90
+  orig: 81, 98
+  offset: 0, 1
+  index: -1
+hair (7)
+  rotate: false
+  xy: 471, 41
+  size: 51, 50
+  orig: 54, 53
+  offset: 3, 0
+  index: -1
+head
+  rotate: false
+  xy: 329, 41
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+knee_28
+  rotate: true
+  xy: 440, 2
+  size: 25, 37
+  orig: 26, 38
+  offset: 1, 1
+  index: -1
+lefthand (1)
+  rotate: false
+  xy: 133, 15
+  size: 32, 55
+  orig: 35, 67
+  offset: 2, 9
+  index: -1
+lefthand (3)
+  rotate: true
+  xy: 464, 93
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+leftleg (1)
+  rotate: false
+  xy: 329, 7
+  size: 56, 32
+  orig: 57, 33
+  offset: 0, 1
+  index: -1
+leftleg (2)
+  rotate: true
+  xy: 527, 212
+  size: 42, 124
+  orig: 43, 124
+  offset: 0, 0
+  index: -1
+leg_76
+  rotate: true
+  xy: 653, 222
+  size: 32, 130
+  orig: 35, 131
+  offset: 3, 1
+  index: -1
+leg_79
+  rotate: true
+  xy: 785, 222
+  size: 32, 123
+  orig: 32, 124
+  offset: 0, 0
+  index: -1
+leg_95
+  rotate: true
+  xy: 440, 29
+  size: 61, 29
+  orig: 61, 32
+  offset: 0, 3
+  index: -1
+magicpic_03
+  rotate: false
+  xy: 2, 180
+  size: 310, 74
+  orig: 321, 86
+  offset: 2, 6
+  index: -1
+magicpic_07
+  rotate: true
+  xy: 314, 203
+  size: 51, 211
+  orig: 61, 221
+  offset: 6, 7
+  index: -1
+neck
+  rotate: false
+  xy: 655, 190
+  size: 26, 30
+  orig: 26, 38
+  offset: 0, 5
+  index: -1
+newinan_66
+  rotate: false
+  xy: 683, 198
+  size: 31, 22
+  orig: 35, 25
+  offset: 0, 2
+  index: -1
+piece (1)
+  rotate: false
+  xy: 314, 186
+  size: 7, 15
+  orig: 8, 18
+  offset: 0, 2
+  index: -1
+piece (2)
+  rotate: true
+  xy: 1003, 241
+  size: 13, 19
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+piece (3)
+  rotate: false
+  xy: 528, 162
+  size: 92, 48
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+piece (4)
+  rotate: true
+  xy: 716, 204
+  size: 16, 25
+  orig: 16, 26
+  offset: 0, 1
+  index: -1
+piece (5)
+  rotate: true
+  xy: 52, 5
+  size: 14, 30
+  orig: 17, 31
+  offset: 2, 1
+  index: -1
+piece (6)
+  rotate: true
+  xy: 84, 5
+  size: 14, 22
+  orig: 15, 23
+  offset: 0, 1
+  index: -1
+righthand (1)
+  rotate: true
+  xy: 616, 132
+  size: 25, 36
+  orig: 26, 39
+  offset: 1, 0
+  index: -1
+righthand (2)
+  rotate: true
+  xy: 390, 92
+  size: 34, 72
+  orig: 37, 73
+  offset: 0, 0
+  index: -1
+righthand (3)
+  rotate: false
+  xy: 622, 159
+  size: 31, 51
+  orig: 32, 53
+  offset: 0, 1
+  index: -1
+rightleg (2)
+  rotate: true
+  xy: 2, 21
+  size: 49, 129
+  orig: 51, 129
+  offset: 1, 0
+  index: -1
+skirt (3)
+  rotate: false
+  xy: 324, 113
+  size: 64, 88
+  orig: 65, 88
+  offset: 1, 0
+  index: -1
+skirt_82
+  rotate: true
+  xy: 245, 8
+  size: 72, 82
+  orig: 74, 85
+  offset: 0, 2
+  index: -1
+skirtback (1)
+  rotate: true
+  xy: 169, 2
+  size: 84, 74
+  orig: 85, 81
+  offset: 1, 5
+  index: -1
+skirtback (2)
+  rotate: true
+  xy: 252, 82
+  size: 96, 70
+  orig: 101, 80
+  offset: 5, 7
+  index: -1
+west_49
+  rotate: false
+  xy: 387, 25
+  size: 51, 65
+  orig: 63, 68
+  offset: 5, 1
+  index: -1
+wood_34
+  rotate: false
+  xy: 2, 72
+  size: 165, 106
+  orig: 168, 124
+  offset: 0, 9
+  index: -1
+woodhand_52
+  rotate: false
+  xy: 655, 161
+  size: 22, 27
+  orig: 35, 40
+  offset: 8, 5
+  index: -1

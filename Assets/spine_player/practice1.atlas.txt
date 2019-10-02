@@ -1,0 +1,272 @@
+
+practice1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 409, 16
+  size: 100, 132
+  orig: 100, 132
+  offset: 0, 0
+  index: -1
+eyes (1)
+  rotate: false
+  xy: 505, 238
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+eyes (2)
+  rotate: false
+  xy: 139, 3
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+hair (1)
+  rotate: false
+  xy: 282, 30
+  size: 125, 123
+  orig: 125, 123
+  offset: 0, 0
+  index: -1
+hair (2)
+  rotate: false
+  xy: 409, 150
+  size: 49, 151
+  orig: 49, 151
+  offset: 0, 0
+  index: -1
+hair (3)
+  rotate: true
+  xy: 282, 2
+  size: 26, 80
+  orig: 26, 80
+  offset: 0, 0
+  index: -1
+hair (4)
+  rotate: true
+  xy: 284, 303
+  size: 47, 143
+  orig: 47, 143
+  offset: 0, 0
+  index: -1
+hair (5)
+  rotate: false
+  xy: 828, 285
+  size: 35, 74
+  orig: 35, 74
+  offset: 0, 0
+  index: -1
+hair (6)
+  rotate: false
+  xy: 2, 3
+  size: 135, 163
+  orig: 135, 163
+  offset: 0, 0
+  index: -1
+hair (7)
+  rotate: false
+  xy: 656, 360
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 748, 361
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+knee_28
+  rotate: true
+  xy: 932, 299
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+lefthand (1)
+  rotate: false
+  xy: 930, 344
+  size: 59, 111
+  orig: 59, 111
+  offset: 0, 0
+  index: -1
+lefthand (3)
+  rotate: false
+  xy: 608, 255
+  size: 45, 107
+  orig: 45, 107
+  offset: 0, 0
+  index: -1
+leftleg (1)
+  rotate: true
+  xy: 710, 263
+  size: 95, 55
+  orig: 95, 55
+  offset: 0, 0
+  index: -1
+leftleg (2)
+  rotate: true
+  xy: 284, 352
+  size: 71, 206
+  orig: 71, 206
+  offset: 0, 0
+  index: -1
+leg_76
+  rotate: true
+  xy: 501, 451
+  size: 59, 218
+  orig: 59, 218
+  offset: 0, 0
+  index: -1
+leg_79
+  rotate: true
+  xy: 721, 457
+  size: 53, 206
+  orig: 53, 206
+  offset: 0, 0
+  index: -1
+leg_95
+  rotate: true
+  xy: 655, 257
+  size: 101, 53
+  orig: 101, 53
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 460, 192
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+newinan_66
+  rotate: false
+  xy: 429, 309
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+piece (1)
+  rotate: true
+  xy: 460, 293
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+piece (2)
+  rotate: false
+  xy: 460, 157
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+piece (3)
+  rotate: false
+  xy: 501, 364
+  size: 153, 85
+  orig: 153, 85
+  offset: 0, 0
+  index: -1
+piece (4)
+  rotate: false
+  xy: 991, 412
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+piece (5)
+  rotate: true
+  xy: 767, 261
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+piece (6)
+  rotate: true
+  xy: 364, 3
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+righthand (1)
+  rotate: true
+  xy: 865, 288
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+righthand (2)
+  rotate: false
+  xy: 866, 334
+  size: 62, 121
+  orig: 62, 121
+  offset: 0, 0
+  index: -1
+righthand (3)
+  rotate: true
+  xy: 929, 457
+  size: 53, 89
+  orig: 53, 89
+  offset: 0, 0
+  index: -1
+rightleg (2)
+  rotate: true
+  xy: 284, 425
+  size: 85, 215
+  orig: 85, 215
+  offset: 0, 0
+  index: -1
+skirt (3)
+  rotate: false
+  xy: 299, 155
+  size: 108, 146
+  orig: 108, 146
+  offset: 0, 0
+  index: -1
+skirt_82
+  rotate: false
+  xy: 173, 159
+  size: 124, 142
+  orig: 124, 142
+  offset: 0, 0
+  index: -1
+skirtback (1)
+  rotate: false
+  xy: 139, 22
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+skirtback (2)
+  rotate: false
+  xy: 2, 168
+  size: 169, 133
+  orig: 169, 133
+  offset: 0, 0
+  index: -1
+west_49
+  rotate: true
+  xy: 492, 257
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+wood_34
+  rotate: false
+  xy: 2, 303
+  size: 280, 207
+  orig: 280, 207
+  offset: 0, 0
+  index: -1
+woodhand_52
+  rotate: false
+  xy: 767, 292
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
